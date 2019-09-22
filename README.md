@@ -12,10 +12,12 @@
 Para la realización de este trabajo práctico necesitaremos herramientas de análisis de redes WiFi. El sistema operativo Kali, basado en el kernel de Linux provee estas herramientas como así también otras que son relevantes a la materia. Por cuestiones de seguridad y practicidad decidimos instalar el sistema operativo en una máquina virtual. En este caso optamos por Virtualbox, una opción de código abierto y gratis.    
 
 
-Procedemos a instalar VirtualBox desde !(su página oficial)[https://www.virtualbox.org/wiki/Downloads] para un host Windows 10.
+Procedemos a instalar VirtualBox desde [su página oficial](https://www.virtualbox.org/wiki/Downloads) para un host Windows 10.    
+
+
 ![InstalamosVirtualBox][InstalamosVirtualbox]
 
-Compruebo el checksum
+Comprobamos el checksum   
 ![ComprueboChecksum][ComprueboChecksum]
 
 ## Conclusiones
