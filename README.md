@@ -34,6 +34,8 @@ Importamos la imagen de Kali en VirtualBox
 ![ImportamosKali3][ImportamosKali3]   
 ![ImportamosKali4][ImportamosKali4]   
 
+Intentamos correr Kali en VirtualBox pero nos encontramos con el siguiente error:
+![ErrorVB][ErrorVB]
 
 ## Conclusiones
 
@@ -48,3 +50,4 @@ Importamos la imagen de Kali en VirtualBox
 [ImportamosKali2]: Imagenes/ImportamosKali2.png
 [ImportamosKali3]: Imagenes/ImportamosKali3.png
 [ImportamosKali4]: Imagenes/ImportamosKali4.png
+[ErrorVB]: Imagenes/ErrorVB.png
