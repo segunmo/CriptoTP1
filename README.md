@@ -52,6 +52,7 @@ Corremos Kali
 ![CorremosKali3][CorremosKali3]   
 
  En un primer intento tratamos de crackear la red WEP, pero no se detectó su presencia debido al uso de Kali dentro de un entorno dado por una máquina virtual, con lo cual el sistema operativo primario no permite el uso de la placa de red propia de la notebook
+ ![Kali_placa_red_necesaria][Kali_placa_red_necesaria]
 
 ## Conclusiones
 
@@ -72,3 +73,4 @@ Corremos Kali
 [CorremosKali1]: Imagenes/CorremosKali1.png
 [CorremosKali2]: Imagenes/CorremosKali2.png
 [CorremosKali3]: Imagenes/CorremosKali3.png
+[Kali_placa_red_necesaria]: Imagenes/Kali_placa_red_necesaria.png
