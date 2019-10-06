@@ -53,6 +53,9 @@ Corremos Kali
 
  En un primer intento tratamos de crackear la red WEP, pero no se detectó su presencia debido al uso de Kali dentro de un entorno dado por una máquina virtual, con lo cual el sistema operativo primario no permite el uso de la placa de red propia de la notebook
  ![Kali_placa_red_necesaria][Kali_placa_red_necesaria]
+Luego de adquirir una placa de red USB, tal como se muestra en la imagen
+ ![kali_red_disponible][kali_red_disponible]
+procedimos a utilizar las herramientas incluidas en Kali para crackear la contraseña de la red WEP.
 
 ## Conclusiones
 
@@ -74,3 +77,4 @@ Corremos Kali
 [CorremosKali2]: Imagenes/CorremosKali2.png
 [CorremosKali3]: Imagenes/CorremosKali3.png
 [Kali_placa_red_necesaria]: Imagenes/Kali_placa_red_necesaria.png
+[kali_red_disponible]: Imagenes/kali_red-_disponible.png
