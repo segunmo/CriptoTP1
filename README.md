@@ -77,4 +77,4 @@ procedimos a utilizar las herramientas incluidas en Kali para crackear la contra
 [CorremosKali2]: Imagenes/CorremosKali2.png
 [CorremosKali3]: Imagenes/CorremosKali3.png
 [Kali_placa_red_necesaria]: Imagenes/Kali_placa_red_necesaria.png
-[kali_red_disponible]: Imagenes/kali_red-_disponible.png
+[kali_red_disponible]: Imagenes/kali_red_disponible.png
