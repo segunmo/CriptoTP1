@@ -55,9 +55,9 @@ Corremos Kali
  ![Kali_placa_red_necesaria][Kali_placa_red_necesaria]
 Luego de adquirir una placa de red USB, tal como se muestra en la imagen
  ![kali_red_disponible][kali_red_disponible]
-procedimos con la preparacion del entorno. Al tener routers modernos, la configuracion de seguridad de los mismos ya no incluye WEP.
+procedimos con la preparacion del entorno. Se intenó cambiar la configuracion de un router con seguirdad WPA2 para que tenga WEP pero tener routers modernos, la configuracion de seguridad de los mismos ya no incluye WEP.
 ![Configuracion_de_router][Configuracion_de_router]   
-Por ello realizamos una busqueda de una red WEP y, con el consenso de su propietario, utilizamos su WiFi para el desarrollo de este trabajo practico.
+Por ello seguimos utilizando la red con que estabamos tratando en un principio.
 
 
 ## Conclusiones
