@@ -72,7 +72,7 @@ Al recolectar 120.000 paquetes aproximadamente, el resultado fue exitoso:
 
 
 ## Conclusiones
-
+Como se pudo notar en el desarrollo del trabajo práctico, es extremadamente fácil recolectar datos de la red que cargan información sobre la seguridad de la red. Con la mencionada recoleccion y el uso de una herramienta incluida en el paquete básico de la distribución Kali de Linux se puede hallar la contraseña de la red WEP bajo estudio. Se concluye que este tipo de redes son muy inseguras y se desrecomienda su uso.
 
 
 [InstalamosVirtualBox]: Imagenes/InstalamosVirtualBox.png
