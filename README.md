@@ -58,6 +58,17 @@ Luego de adquirir una placa de red USB, tal como se muestra en la imagen
 procedimos con la preparacion del entorno. Se intenó cambiar la configuracion de un router con seguirdad WPA2 para que tenga WEP pero tener routers modernos, la configuracion de seguridad de los mismos ya no incluye WEP.
 ![Configuracion_de_router][Configuracion_de_router]   
 Por ello seguimos utilizando la red con que estabamos tratando en un principio.
+Una vez disponible la red WEP, se prosiguió utilizando las herramientas airmon para poner a la placa de red en modo monitoreo; y airodump para verificar el estado de las redes, sus características y la intercepción de paquetes.
+En la siguiente imagen se muestra la activación del modo monitoreo de la tarjeta de red:
+![Tarjeta_red_modo_monitoreo][Tarjeta_red_modo_monitoreo]
+Luego se detecta efectivamente la red WEP:
+![Red_WEP_detectada][Red_WEP_detectada]
+Se muestra la recolección de datos:
+![Recoleccion_datos][Recoleccion_datos]
+El primer intento de crackeo fue fallido por la baja cantidad de paquetes recolectados:
+![Intento_fallido_crack][Intento_fallido_crack]
+Al recolectar 120.000 paquetes aproximadamente, el resultado fue exitoso:
+![Clave_encontrada][Clave_encontrada]
 
 
 ## Conclusiones
@@ -82,3 +93,7 @@ Por ello seguimos utilizando la red con que estabamos tratando en un principio.
 [Kali_placa_red_necesaria]: Imagenes/Kali_placa_red_necesaria.png
 [kali_red_disponible]: Imagenes/kali_red_disponible.png
 [Configuracion_de_router]: Imagenes/Configuracion_de_router.png
+[Red_WEP_detectada]: Imagenes/Red_WEP_detectada.png
+[Recoleccion_datos]: Imagenes/Recoleccion_datos.png
+[Intento_fallido_crack]: Imagenes/Intento_fallido_crack.png
+[Clave_encontrada]: Imagenes/Clave_encontrada.png
