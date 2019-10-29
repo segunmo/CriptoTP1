@@ -56,7 +56,7 @@ Corremos Kali
  ![Kali_placa_red_necesaria][Kali_placa_red_necesaria]
 Luego de adquirir una placa de red USB, tal como se muestra en la imagen
  ![kali_red_disponible][kali_red_disponible]
-procedimos con la preparacion del entorno. Se intenó cambiar la configuracion de un router con seguirdad WPA2 para que tenga WEP pero tener routers modernos, la configuracion de seguridad de los mismos ya no incluye WEP.
+procedimos con la preparacion del entorno. Se intenó cambiar la configuracion de un router con seguirdad WPA2 para que tenga WEP pero al tener routers modernos, la configuracion de seguridad de los mismos ya no incluye WEP.
 ![Configuracion_de_router][Configuracion_de_router]   
 Por ello seguimos utilizando la red con que estabamos tratando en un principio.
 Una vez disponible la red WEP, se prosiguió utilizando las herramientas airmon para poner a la placa de red en modo monitoreo; y airodump para verificar el estado de las redes, sus características y la intercepción de paquetes.
