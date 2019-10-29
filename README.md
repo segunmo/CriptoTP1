@@ -4,9 +4,10 @@
 ### Segundo Molina Abeniacar (99306)      
 #     
 ## Objetivo del trabajo práctico
-El objetivo del presente trabajo practico es el de realizar un analisis criptografico basico y el posterior ataque a las vulnerabilidades que presentan las redes WEP(Wired Equivalent Privacy). Mediante el presente informe se dan a conocer los pasos realizados para la obtención de claves de Wifi que presentan las redes WEP.
+El objetivo del presente trabajo practico es el de realizar un analisis criptografico basico y el posterior ataque a las vulnerabilidades que presentan las redes WEP(Wired Equivalent Privacy). 
+Mediante el presente informe se dan a conocer los pasos realizados para la obtención de claves de Wifi que presentan las redes WEP.
 ## Introducción teórica
-Las redes WEP, tal como lo indica su nombre Wired Equivalent Privacy, surgieron como el equivalente inalámbrico de las redes cableadas, proporionando el mismo nivel de seguridad. El estándar 802.11 especifica su capacidad de cifrado.
+Las redes WEP, tal como lo indica su nombre Wired Equivalent Privacy, surgieron como el equivalente inalámbrico de las redes cableadas, proporcionando el mismo nivel de seguridad. El estándar 802.11 especifica su capacidad de cifrado.
 	El protocolo de seguridad está basado en RC4 y utiliza 64 o bien 128 bits, donde 24 de ellos pertenecen al vector de inicializacion (IV). Para poder descifrar la clave  contenida en los 40 o 104 bits correspondientes, estos 24 bits forman parte de los paquetes enviados, pues ambos emisor y receptor deben conocer los IV ( que se envían sin cifrar). Además, los patrones de generación de vectores predecibles y por lo tanto vulnerables. 
 ## Documentación
 
