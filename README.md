@@ -60,9 +60,8 @@ procedimos con la preparacion del entorno. Se intenó cambiar la configuracion d
 ![Configuracion_de_router][Configuracion_de_router]   
 Por ello seguimos utilizando la red con que estabamos tratando en un principio.
 Una vez disponible la red WEP, se prosiguió utilizando las herramientas airmon para poner a la placa de red en modo monitoreo; y airodump para verificar el estado de las redes, sus características y la intercepción de paquetes.
-En la siguiente imagen se muestra la activación del modo monitoreo de la tarjeta de red:
-![Tarjeta_red_modo_monitoreo][Tarjeta_red_modo_monitoreo]
-Luego se detecta efectivamente la red WEP:
+
+Se detecta efectivamente la red WEP:
 ![Red_WEP_detectada][Red_WEP_detectada]
 Se muestra la recolección de datos:
 ![Recoleccion_datos][Recoleccion_datos]
